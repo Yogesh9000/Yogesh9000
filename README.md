@@ -32,8 +32,8 @@ I'm starting to explore open-source projects to learn, contribute, and grow as a
 
 ## 📫 Let's Connect  
 - 🌐 **GitHub Portfolio:** [Yogesh9000](https://github.com/Yogesh9000/)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/yogesh-rathod-633a81195/]  
-- 📧 **Email:** [yogesh952003@gmail.com]  
+- 💼 **LinkedIn:** [Yogesh Rathod](https://www.linkedin.com/in/yogesh-rathod-633a81195/)
+- 📧 **Email:** [yogesh952003@gmail.com](yogesh952003@gmail.com)
 
 ---
 
